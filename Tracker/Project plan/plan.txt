@@ -1,0 +1,14 @@
+Ip Tracker
+
+project plan
+
+user enter the website use the geopluginAPL interface that uses Ip addres and can change the different IP addres using 2 digit IOS 
+and send the countary name to and APl and get all the statistic  back to the user.
+
+
+use:
+promises vs callback
+promise is nothing but doing the practical way of callbacks
+
+fetach APL :
+fetch ApL by promiseafter selecting country name it will send the data to API to get the information
