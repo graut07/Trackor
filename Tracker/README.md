@@ -1,2 +1,5 @@
-# COVID-19_TRACKER_HTML_CSS_JAVASCRIPT
-COVID-19 with HTML5, CSS3 and JavaScript
+Covid Tracker with HTML5, CSS3 and JavaScript
+
+steps to run 
+npm intsall
+npm start
